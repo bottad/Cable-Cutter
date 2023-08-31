@@ -1,15 +1,27 @@
-# Cable Cutter
-This machine is designed to cut and strip wires of different diameter to the desired length. The machine is controlled using an Arduino-Uno board and this code.
+# Cable Cutter (Arduino)
+
+This code is used to control a DIY cable-cutting machine using an ArduinoUno board. 
+
+TODO: Insert Image of Setup
 
 ## Installation
 
-To run this program the vs-code extensions Platformio and C++ are requiered.
-Following libraries (from Platformio) are requiered:
+In order for this project to compile VS-Code is used with the following extensions:
+
+* C/C++ Extension
+* Platformio
+
+In Platfrmio the following additional libraries need to be included:
+
 - adafruit/Adafruit GFX Library@^1.11.5
 - adafruit/Adafruit ILI9341@^1.5.
 
-VS-Code should ask if Platformio should be installd when opening the folder of the cloned repo and after that install the requiered libraries itself.
+When opening the repo with VS-Code you should be asked if you want to install the recomended Platformio extension automatically. When installed platformio should automatically search and install the requiered additional libraries.
 
-## Wiring
+## Scheme
 
-The program expects the hardware components to be wired as follows:
+TODO:
+
+## Setup
+
+TODO:
