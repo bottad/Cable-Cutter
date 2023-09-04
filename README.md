@@ -1,8 +1,8 @@
 # Cable Cutter (Arduino)
 
-This code is used to control a DIY cable-cutting machine using an ArduinoUno board. 
+This code is used to control a DIY cable-cutting machine using an Arduino-Uno board. 
 
-TODO: Insert Image of Setup
+TODO: Insert Image of Setup (maybe also .stl files???)
 
 ## Installation
 
