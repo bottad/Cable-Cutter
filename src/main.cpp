@@ -1,4 +1,5 @@
 #include "../include/header.hpp"
+#include "../include/functions.hpp"
 
 #define TFT_CS   10
 #define TFT_RESET 8
